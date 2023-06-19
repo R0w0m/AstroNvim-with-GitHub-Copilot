@@ -1,5 +1,5 @@
 # AstroNvim with GitHub Copilot integration
----
+
 ## Installing
 ### [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
