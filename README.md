@@ -1,6 +1,6 @@
 # AstroNvim with GitHub Copilot integration
 
-## Installing
+### Installing
 ### [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
 #### Make a backup of your current nvim and shared folder
@@ -29,8 +29,8 @@ return {
 
 Restart nvim, then enter commands:
 
->:Copilot setup
->:Copilot enable
+> :Copilot setup
+> :Copilot enable
 
 ### Using
 Use `Alt` + `l` for accept
