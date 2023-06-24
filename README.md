@@ -32,5 +32,14 @@ Restart nvim, then enter commands:
 > 
 > :Copilot enable
 
+And in ~/.config/nvim/init.lua:
+```lua
+require("copilot").setup({
+	suggestion = { enabled = false },
+	panel = { enabled = false },
+})
+```
+
+
 ### Using
 Use `Alt` + `l` for accept
